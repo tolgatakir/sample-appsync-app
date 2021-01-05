@@ -1,0 +1,1 @@
+# sample-appsync-app
